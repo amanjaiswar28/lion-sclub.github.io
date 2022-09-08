@@ -70,6 +70,7 @@ html{
 .background{
     background: rgba(245, 6, 66, 0.7)url('../img/yKRu67.jpg');
     background-size:cover;
+    background-attachment: fixed;
     
 }
 
